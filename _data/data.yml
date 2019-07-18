@@ -47,12 +47,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a web developer and for the last two years, I am providing my services across many platforms especially in Php.
-I have developed custom Apps for CMS like Shopify as well in Laravel.
-I worked on laravel projects which include API integrations, integrating payments gateways,
- developing payment gateways plugins based on the requirements from the clients.
-
-
+      I am a web developer and for the last two years.
+      I am providing my services across many platforms especially in Php.
+      I have developed custom Apps for CMS like Shopify as well in Laravel.
+      I worked on laravel projects which include API integrations, integrating payments gateways,
+      developing payment gateways plugins based on the requirement.
 
 education:
     - degree: BS (Hons) in Software Engineering
