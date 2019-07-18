@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: adildar213@gmail.com
     phone: (+92) 303 472 1678
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: adil-dar
     github: Adil-Dar
     gitlab:
@@ -29,10 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Professional      
 
     interests:
       - item: Cricket
@@ -66,10 +63,7 @@ experiences:
       details: |
         I worked as a Web Developer and most of the work based on the Shopify private Apps development in larval using their APIs and apart from this,
         I worked on laravel projects which include API integrations, integrating payments gateways, 
-        developing payment gateways plugins based on the requirements from the clients.
-
-          - Bullet point
-          - Bullet point
+        developing payment gateways plugins based on the requirements from the clients.         
 
     - role:
       time: 
@@ -103,8 +97,8 @@ projects:
       - title: HRM – Human Resource Management
         link: ""
         tagline: "This was ongoing project of the team to manage and effectively manage HR. I work on few modules of it which are below.
-          Employee management system
-          Sign in with Slack and Zoho."     
+        <i class="fas fa-arrow-right"></i>  Employee management system
+       <i class="fas fa-arrow-right"></i>  Sign in with Slack and Zoho."     
 
 # publications:
 #     title: Publications
@@ -149,4 +143,4 @@ skills:
         level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> 
