@@ -97,8 +97,8 @@ projects:
       - title: HRM – Human Resource Management
         link: ""
         tagline: "This was ongoing project of the team to manage and effectively manage HR. I work on few modules of it which are below.
-        <i class="fas fa-arrow-right"></i>  Employee management system
-       <i class="fas fa-arrow-right"></i>  Sign in with Slack and Zoho."     
+        Employee management system
+        Sign in with Slack and Zoho."     
 
 # publications:
 #     title: Publications
